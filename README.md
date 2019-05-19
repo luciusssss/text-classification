@@ -6,7 +6,7 @@ The datasets used are Amazon review datasets (5-core).
 ## Requirements
 + Python (>= 3.6)
 + PyTorch (>= 1.0)
-+ SpaCy （>= 2.0）
++ SpaCy (>= 2.0)
 + torchtext (>= 0.4)
 
 ## Reference
