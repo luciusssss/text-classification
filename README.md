@@ -1,7 +1,7 @@
 # Text Classification in PyTorch
 These codes are PyTorch implements of different neural models for text classification including CNN, LSTM (RNN), C-LSTM.
 There is an self-attention version for each model.
-The datasets used are Amazon review datasets (5-core).
+The datasets used are Amazon review datasets.
 
 ## Requirements
 + Python (>= 3.6)
